@@ -10,8 +10,8 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/rudra-bhingarde" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:rudrabhingarde@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="www.linkedin.com/in/rudra-bhingarde-b19a652bb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:rudrabhingardedevacc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
