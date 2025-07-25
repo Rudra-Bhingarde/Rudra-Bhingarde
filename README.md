@@ -1,6 +1,6 @@
-Hii my name is Rudra Bhingarde
+#Hii my name is Rudra Bhingarde
 <br>
-and this is my github profile
+##and this is my github profile
 
 <!--
 **Rudra-Bhingarde/Rudra-Bhingarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
