@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rudra Bhingarde</h1>
 <h3 align="center">3rd Year Information Technology Engineering Student</h3>
-<h4 align="center">✨ Passionate about Web Development (2D/3D) & Machine Learning</h4>
+<h4 align="center">✨ Passionate about Web Development (2D/3D), Machine Learning & Deep Learning</h4>
 
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **Advanced ML algorithms, React with Three.js, and Express.js**
-- 💬 Ask me about **C++, Python, JavaScript, React, Node.js, and Data Handling**
+- 🌱 Currently learning **Advanced ML/DL algorithms, React with Three.js, Express.js, and FastAPI**
+- 💬 Ask me about **C++, Python, JavaScript, React, Node.js, Flask, FastAPI, and Data Handling**
 - ⚡ Fun fact: I love combining machine learning with creative 3D visuals!
 
 ---
@@ -42,16 +42,21 @@
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 
 ---
 
-### 🧠 Machine Learning & Data Science
+### 🧠 Machine Learning & Deep Learning
 <p align="center">
   <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-%23000000.svg?style=for-the-badge&logo=deeplearning&logoColor=white" alt="Deep Learning"/>
   <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
@@ -69,6 +74,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
@@ -77,7 +84,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rudrabhingarde&show_icons=true&theme=react&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.demolab.com/?user=rudrabhingarde&theme=react&hide_border=true" width="48%"/>
-
 </p>
 
 ---
